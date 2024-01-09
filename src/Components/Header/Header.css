@@ -162,3 +162,9 @@
     display: none;
   }
 }
+.logout{
+  cursor: pointer;
+}
+.login{
+  cursor: pointer;
+}
